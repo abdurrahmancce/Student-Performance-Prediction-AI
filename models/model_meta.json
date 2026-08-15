@@ -1,0 +1,19 @@
+{
+  "model_name": "LogisticRegression",
+  "features": [
+    "attendance",
+    "ct_marks",
+    "mid_marks",
+    "previous_semester_gpa",
+    "study_hours_per_week"
+  ],
+  "metrics": {
+    "cv_f1_mean": 0.86302008538019,
+    "cv_f1_std": 0.009558064862134952,
+    "test_accuracy": 0.85,
+    "test_precision": 0.8623188405797102,
+    "test_recall": 0.875,
+    "test_f1": 0.8686131386861314,
+    "test_roc_auc": 0.9209558823529412
+  }
+}

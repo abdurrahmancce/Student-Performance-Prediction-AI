@@ -1,0 +1,38 @@
+{
+  "LogisticRegression": {
+    "cv_f1_mean": 0.86302008538019,
+    "cv_f1_std": 0.009558064862134952,
+    "test_accuracy": 0.85,
+    "test_precision": 0.8623188405797102,
+    "test_recall": 0.875,
+    "test_f1": 0.8686131386861314,
+    "test_roc_auc": 0.9209558823529412
+  },
+  "RandomForest": {
+    "cv_f1_mean": 0.8561896385603986,
+    "cv_f1_std": 0.015486750488074285,
+    "test_accuracy": 0.8458333333333333,
+    "test_precision": 0.8561151079136691,
+    "test_recall": 0.875,
+    "test_f1": 0.8654545454545455,
+    "test_roc_auc": 0.9161481900452488
+  },
+  "GradientBoosting": {
+    "cv_f1_mean": 0.8566142171102575,
+    "cv_f1_std": 0.013100481384196932,
+    "test_accuracy": 0.8416666666666667,
+    "test_precision": 0.85,
+    "test_recall": 0.875,
+    "test_f1": 0.8623188405797102,
+    "test_roc_auc": 0.9096790158371041
+  },
+  "SVM_RBF": {
+    "cv_f1_mean": 0.8581045355902195,
+    "cv_f1_std": 0.013969513186232104,
+    "test_accuracy": 0.8458333333333333,
+    "test_precision": 0.8461538461538461,
+    "test_recall": 0.8897058823529411,
+    "test_f1": 0.8673835125448028,
+    "test_roc_auc": 0.9169259049773756
+  }
+}

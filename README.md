@@ -595,9 +595,9 @@ At Risk / Average / High Performer
 **Computer & Communication Engineering (CCE)**  
 **International Islamic University Chittagong (IIUC)**
 
-🔗 GitHub: **@abdurrahmancce**
+🔗 GitHub: **https://github.com/abdurrahmancce**
 
-🔗 Repository: **Student-Performance-Prediction-AI**
+🔗 Repository: **[Student-Performance-Prediction-AI](https://github.com/abdurrahmancce/Student-Performance-Prediction-AI)**
 
 ---
 

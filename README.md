@@ -588,6 +588,27 @@ At Risk / Average / High Performer
 
 ---
 
+## 📸 Screenshots / Preview
+
+### 🎯 Prediction Interface
+
+<img src="https://github.com/user-attachments/assets/409962a6-b6a2-4c81-9fe6-e6fe8caa4ea5" width="500">
+
+### 📊 Model Insights
+
+<img src="https://github.com/user-attachments/assets/0c85dbef-da09-47de-880a-e275758c726c" width="500">
+
+### ⚙️ Data & Training
+
+<img src="https://github.com/user-attachments/assets/69b16401-9f45-42e6-8ad3-87ac1f2c1bed" width="500">
+
+### 🌙 Dark Mode
+
+<img src="https://github.com/user-attachments/assets/cec1e6fa-95d1-4cb7-9c56-0bdf055ce740" width="500">
+
+
+---
+
 ## 👨‍💻 Author
 
 ### **Abdur Rahman**

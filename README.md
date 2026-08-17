@@ -640,12 +640,6 @@ If you find this project useful:
 
 ---
 
-## 📄 License
-
-This project is intended for **educational and research purposes**. Add a formal open-source license such as MIT if you plan to distribute the project for broader reuse.
-
----
-
 <div align="center">
 
 ### 🎓 Student Performance Prediction AI
